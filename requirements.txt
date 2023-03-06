@@ -1,0 +1,9 @@
+matplotlib==3.6.2
+
+seaborn==0.12.1
+
+lmfit==1.1.0
+
+pandas==1.4.4
+
+streamlit==1.16.0
